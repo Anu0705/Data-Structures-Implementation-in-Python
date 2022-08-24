@@ -9,6 +9,6 @@ Arrays/Lists
 1. Append - same list updation
 2. Extend  merge two lists
 3. Insert - particular position in a list
-4. Remove  pop()
+4. Remove - pop()
 5. List slicing
 6. 

@@ -12,3 +12,7 @@ Arrays/Lists
 4. Remove - pop(), remove()
 5. List slicing
 6. return index of the element in python
+
+Tuples
+
+similar to lists, cannot be modified

@@ -11,4 +11,4 @@ Arrays/Lists
 3. Insert - particular position in a list
 4. Remove - pop(), remove()
 5. List slicing
-6. 
+6. return index of the element in python

@@ -16,3 +16,10 @@ Arrays/Lists
 Tuples
 
 similar to lists, cannot be modified
+
+Dictionary
+
+1. key/value pair
+2. must be accessed using key only, the key must be present in the dictionary
+3. new enteries can be added just by specifying the new key and it's corresponding value
+4. dictionary elements can be removed by pop or del keyword
